@@ -9,4 +9,5 @@ dependencies:
   - h5py
   - scipy
   - json
+  - ipykernel
 prefix: /home/jovyan/envs/ligo

@@ -1,1 +1,1 @@
-from .ligotools import *
+from .readligo import *
